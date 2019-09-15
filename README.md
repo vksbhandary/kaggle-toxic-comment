@@ -2,9 +2,9 @@
 
 This repository contains solution of the [kaggle competition](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge).
 
-| Sno. | Model | Framework used | Parameters | Epochs | Public score | Private score |
-| ------ | ------ | ------ | ------ | ------ | ------ | ------ |
-| 1 | [Baseline](keras-baseline.ipynb) | Keras | 813,830 | 40 | 0.97596 | 0.97617 |
+| Sno. | Model | Framework used | Parameters | Epochs | Public score | Private score | Source |
+| ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
+| 1 | [Baseline](keras-baseline.ipynb) | Keras | 813,830 | 40 | 0.97596 | 0.97617 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vksbhandary/kaggle-toxic-comment/blob/master/keras-baseline.ipynb] |
 
 
 
