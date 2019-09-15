@@ -5,3 +5,8 @@ This repository contains solution of the [kaggle competition](https://www.kaggle
 | Sno. | Model | Framework used | Parameters | Epochs | Public score | Private score |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
 | 1 | [Baseline](keras-baseline.ipynb) | Keras | 813,830 | 40 | 0.97596 | 0.97617 |
+
+
+
+
+If you are new to NLP and want to understand basics, please read [this](https://t.co/dVO5ky1pGi?amp=1) blog post.
