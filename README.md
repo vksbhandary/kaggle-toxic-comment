@@ -5,7 +5,7 @@ This repository contains solution of the [kaggle competition](https://www.kaggle
 | Sno. | Model | Framework used | Parameters | Epochs | Public score | Private score | Source |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
 | 1 | [Baseline](keras-baseline.ipynb) | Keras | 813,830 | 40 | 0.97596 | 0.97617 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vksbhandary/kaggle-toxic-comment/blob/master/keras-baseline.ipynb) |
-| 2 | [Baseline with BPE & custom FastText embeddings](keras_bpe.ipynb) | Keras | 813,830 | 40 | 0.97996 | 0.97934 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vksbhandary/kaggle-toxic-comment/blob/master/keras_bpe.ipynb) |
+| 2 | [Baseline with BPE & custom FastText embeddings](keras_bpe.ipynb) | Keras | 813,830 | 40 | 0.98011 | 0.98004 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vksbhandary/kaggle-toxic-comment/blob/master/keras_bpe.ipynb) |
 
 
 
